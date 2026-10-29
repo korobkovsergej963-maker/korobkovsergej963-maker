@@ -7,11 +7,11 @@
 
 ## Стек
 
-**Языки:** C#, C++
-**Десктоп:** WPF, WinUI 3, XAML, MVVM (база)
-**Backend:** ASP.NET Core (Web API, MVC, Razor Pages, Blazor), Entity Framework Core, ADO.NET
-**Базы данных:** PostgreSQL, MS SQL Server, SQLite, SQL
-**Инструменты:** Git, GitHub Actions, Docker, Visual Studio, DBeaver
+- **Языки:** C#, C++
+- **Десктоп:** WPF, WinUI 3, XAML, MVVM (база)
+- **Backend:** ASP.NET Core (Web API, MVC, Razor Pages, Blazor), Entity Framework Core, ADO.NET
+- **Базы данных:** PostgreSQL, MS SQL Server, SQLite, SQL
+- **Инструменты:** Git, GitHub Actions, Docker, Visual Studio, DBeaver
 
 ## Проекты
 
